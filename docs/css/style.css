@@ -1,7 +1,7 @@
 body {
   font-family: sans-serif;
   background: black;
- foreground: #8019c5;
+  color: #8019c5;
 }
 
 /* Make content area fill the entire browser window */
