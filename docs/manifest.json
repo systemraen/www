@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "short_name": "Hello",
+  "name": "SystemRaen",
+  "short_name": "SystemRaen",
   "icons": [{
     "src": "images/hello-icon-128.png",
       "sizes": "128x128",
@@ -28,7 +28,7 @@
     }],
   "lang": "en-US",
   "start_url": "/index.html",
-  "display": "standalone",
-  "background_color": "white",
-  "theme_color": "white"
+  "display": "fullscreen",
+  "background_color": "black",
+  "theme_color": "black"
 }
